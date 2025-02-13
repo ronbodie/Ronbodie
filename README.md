@@ -42,7 +42,6 @@
 - [Hello World](https://github.com/ronbodie/LABURL2)
 - [Project 3](https://github.com/ronbodie/LABURL3)
 
-<b>Statistical Analysis</b>
 
 <h2>👨‍💻 Cyber/AI Security Projects</h2>
 
