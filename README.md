@@ -1,4 +1,9 @@
-<h1>Hi, I'm Ron! <br/><a href="https://github.com/ronbodie">Machine Learning Student</a>, <a href="https://www.linkedin.com/in/taron-fenner/">Automation Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">Cybersecurity Enthusiast</a></h1>
+
+<h1 align="center">Hi, I'm Ron! <br/><a href="https://github.com/ronbodie">Machine Learning </a>| <a href="https://www.linkedin.com/in/taron-fenner/">Automation </a>| <a href="https://www.youtube.com/c/taronfenner">AI Cybersecurity </a></h1>
+
+
+
+
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
